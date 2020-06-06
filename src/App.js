@@ -3,7 +3,6 @@ import { Chat, HeroCard } from '@progress/kendo-react-conversational-ui';
 import { ApiAiClient } from 'api-ai-javascript';
 import "./App.css";
 import botIcon from "./boticon.gif";
-import gitIcon from "./giticon.svg";
 
 class App extends React.Component {
   constructor(props) {
