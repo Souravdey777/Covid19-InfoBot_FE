@@ -110,7 +110,7 @@ class App extends React.Component {
   render() {
     return (
       <div
-        style={{ height: "100vh", display: "flex", flexDirection: "column", justifyContent: "center" }}>
+        style={{ height: "100vh", display: "flex", flexDirection: "column", justifyContent: "center", alignItems:"center" }}>
         <div className="header">
           <img src={botIcon} alt="bot" className="botimage"/>
           <div className="headerBody">

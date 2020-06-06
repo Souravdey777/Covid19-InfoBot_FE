@@ -9,6 +9,8 @@
   display: flex;
   justify-content: flex-start;
   align-items: center;
+  max-width: 500px;
+  margin: auto;
 }
 
 .botimage {
