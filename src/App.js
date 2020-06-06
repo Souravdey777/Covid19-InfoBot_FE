@@ -116,7 +116,7 @@ class App extends React.Component {
           <div className="headerBody">
             <div className="title">COVID-19 INFO BOT</div>
             <div className="description1">This is chat bot capable of providing live data of COVID-19 cases for all Indian states and general info regarding COVID19 </div>
-            <div className="description" >Repo Url: <a href="https://github.com/Souravdey777/Covid19-InfoBot_FE">github</a></div>
+            <div className="description" >Repo Url: <a href="https://github.com/Souravdey777/Covid19-InfoBot_FE">Github</a></div>
             <div className="description" >Developed by: <a href="https://souravdey777.github.io/Portfolio/">Sourav Dey</a></div>
           </div>
           </div>
