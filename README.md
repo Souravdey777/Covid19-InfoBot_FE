@@ -18,10 +18,10 @@ A chatbot developed with Dialogflow with frontend in ReactJs and webhook in Node
 
 **[Click here for demo](https://souravdey777.github.io/Covid19-InfoBot_FE/)**
 <a href="https://souravdey777.github.io/Covid19-InfoBot_FE/" target="_blank">
-	<p align="center">
-<!--   		<img src="./Screenshot.png" width="700" title="SUMMARIZE : THE NEWS APP" alt="SUMMARIZE : THE NEWS APP"> -->
-<!--     <iframe width="560" height="315" src="https://www.youtube.com/embed/mMmjEh71ZeY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-	</p>
+<!-- 	<p align="center">
+  		<img src="./Screenshot.png" width="700" title="SUMMARIZE : THE NEWS APP" alt="SUMMARIZE : THE NEWS APP">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/mMmjEh71ZeY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</p> -->
 </a>
 
 
