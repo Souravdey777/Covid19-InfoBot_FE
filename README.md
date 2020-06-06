@@ -1,3 +1,9 @@
+## Covid19-InfoBot_FE
+
+[![HitCount](http://hits.dwyl.com/Souravdey777/Souravdey777/Covid19-InfoBot_FE.svg)](http://hits.dwyl.com/Souravdey777/Souravdey777/Covid19-InfoBot_FE)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
