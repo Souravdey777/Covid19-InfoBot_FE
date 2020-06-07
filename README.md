@@ -47,7 +47,7 @@ A chatbot developed with Dialogflow with frontend in ReactJs and webhook in Node
 
 Clone/download the repository on your local machine.
 
-	`git clone https://github.com/Souravdey777/News-Bucket.git`
+	`https://github.com/Souravdey777/Covid19-InfoBot_FE.git`
 
 ##### Install dependencies
 
