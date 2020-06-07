@@ -12,17 +12,18 @@ This info bot is capable of giving latest data of COVID 19 cases in India and ge
 
 A chatbot developed with Dialogflow with frontend in ReactJs and webhook in NodeJs and ExpressJs It is a responsive chatbot which is designed to be supported on any device and it is developed considering the Google's concepts of Progressive Web Applications.
 
-[Webhook Source Code](https://github.com/Souravdey777/Covid19-InfoBot/)
+**[Webhook Source Code](https://github.com/Souravdey777/Covid19-InfoBot/)**
 
 ### Demo
 
 **[Click here for demo](https://souravdey777.github.io/Covid19-InfoBot_FE/)**
 <a href="https://souravdey777.github.io/Covid19-InfoBot_FE/" target="_blank">
-<!-- 	<p align="center">
-  		<img src="./Screenshot.png" width="700" title="SUMMARIZE : THE NEWS APP" alt="SUMMARIZE : THE NEWS APP">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/mMmjEh71ZeY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	</p> -->
+	<p align="center">
+  		<img src="./Screenshot01.jpg" width="350" title="COVID 19 INFO BOT" alt="COVID 19 INFO BOT">
+  		<img src="./Screenshot02.jpg" width="350" title="COVID 19 INFO BOT" alt="COVID 19 INFO BOT">
+	</p>
 </a>
+<!--     <iframe width="560" height="315" src="https://www.youtube.com/embed/mMmjEh71ZeY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 
 
 ### Features
