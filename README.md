@@ -8,9 +8,9 @@
 ### Description
 
 People are in great misconceptions and believing myths regarding COVID 19. So, This bot is a fact machine for everybody.
-This info bot is capable of giving latest data of COVID 19 cases in India and general fact regarding COVID 19.
+This infobot is capable of giving the latest data of COVID 19 cases in India and general facts regarding COVID 19.
 
-A chatbot developed with Dialogflow with frontend in ReactJs and webhook in NodeJs and ExpressJs It is a responsive chatbot which is designed to be supported on any device and it is developed considering the Google's concepts of Progressive Web Applications.
+A chatbot developed with Dialogflow with frontend in ReactJs and webhook in NodeJs and ExpressJs It is a responsive chatbot that is designed to be supported on any device and it is developed considering the Google's concepts of Progressive Web Applications.
 
 **[Webhook Source Code](https://github.com/Souravdey777/Covid19-InfoBot/)**
 
