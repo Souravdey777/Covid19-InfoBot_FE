@@ -5,7 +5,8 @@
 [![GitHub version](https://d25lcipzij17d.cloudfront.net/badge.png?id=gh&v=1.0&style=flat)](https://badge.fury.io/gh/Souravdey777/Covid19-InfoBot_FE)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Souravdey777/News-Bucket/issues)
 
-<iframe style="border: none;" src="https://cards.producthunt.com/cards/posts/208220?v=1" width="500" height="405" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+<a href="https://www.producthunt.com/posts/covid19-infobot?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-covid19-infobot" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=208220&theme=light" alt="Covid19-InfoBot - Info bot to burst all myths of Covid 19 | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
 
 ### Description
 
