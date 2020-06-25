@@ -6,7 +6,8 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Souravdey777/News-Bucket/issues)
 
 
-<a href="https://www.producthunt.com/posts/covid19-infobot?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-covid19-infobot" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=208220&theme=light" alt="Covid19-InfoBot - Info bot to burst all myths of Covid 19 | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
+<a href="https://www.producthunt.com/posts/covid19-infobot?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-covid19-infobot" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=208220&theme=dark" alt="Covid19-InfoBot - Info bot to burst all myths of Covid 19 | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
+
 
 ### Description
 
@@ -17,7 +18,9 @@ A chatbot developed with Dialogflow with frontend in ReactJs and webhook in Node
 
 	The Above Repo is the Frontend Source Code of the ChatBot in ReactJs
 
+
 **[Webhook Source Code](https://github.com/Souravdey777/Covid19-InfoBot/)**
+
 
 ### Demo
 
@@ -28,6 +31,7 @@ A chatbot developed with Dialogflow with frontend in ReactJs and webhook in Node
   		<img src="./Screenshot02.jpg" width="350" title="COVID 19 INFO BOT" alt="COVID 19 INFO BOT">
 	</p>
 </a>
+
 
 #### Youtube Demo
 
@@ -44,6 +48,17 @@ A chatbot developed with Dialogflow with frontend in ReactJs and webhook in Node
 	• Webhook to fetch live data using NodeJs and ExpressJs.
 	• Responsive Design
 	• Progressive Web Application
+
+
+### Todo
+
+- [x] State wise data
+
+- [x] General Question regarding Covid19
+
+- [ ] District wise data
+
+- [ ] Conversation for metal wellbeing
 
 
 ### Getting Started
