@@ -5,7 +5,7 @@
   "private": true,
   "dependencies": {
     "@progress/kendo-react-conversational-ui": "^3.14.0",
-    "@progress/kendo-react-dateinputs": "^3.14.0",
+    "@progress/kendo-react-dateinputs": "^3.18.0",
     "@progress/kendo-react-intl": "^3.14.0",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
